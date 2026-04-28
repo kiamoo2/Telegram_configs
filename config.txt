@@ -1,8 +1,7 @@
-کانفیگ های جمع آوری شده تمام تلگرام
-توسط کانال کیامو | @kiamoo
-تاریخ: 2026/04/28
-ساعت: 10:55
-──────────────────────────────
-این یک تست است - 2026-04-28 10:55:36.004030
-vless://test1@1.1.1.1:443#تست اول
-vless://test2@2.2.2.2:443#تست دوم
+vless://1@1.1.1.1:443?encryption=none&security=none&type=tcp&headerType=none#کانفیگ های جمع آوری شده تمام تلگرام
+vless://1@1.1.1.1:443?encryption=none&security=none&type=tcp&headerType=none#توسط کانال کیامو | @kiamoo
+vless://1@1.1.1.1:443?encryption=none&security=none&type=tcp&headerType=none#تاریخ: 1405/02/08
+vless://1@1.1.1.1:443?encryption=none&security=none&type=tcp&headerType=none#ساعت: 15:30
+vless://real-config-1@...
+vmess://real-config-2@...
+trojan://real-config-3@...
