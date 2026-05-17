@@ -1,6 +1,31 @@
 کانفیگ های جمع آوری شده تمام تلگرام
 توسط کانال کیامو | @kiamoo
 تاریخ: 1405/02/27
+ساعت: 09:50
+──────────────────────────────────────────────────────────────────────
+https://t.me/proxy?server=000FW.MTP.IPSENTER.NET&port=443&secret=eeb6f8ee754d7e48b99f4fe1e939765370676f6f676c652e636f6d
+https://t.me/proxy?server=132.243.224.115&port=443&secret=ee64fa232998f0194a2cc5f5d0f4d1c9ae706574726f766963682e7275&@MPT_Proxy
+https://t.me/proxy?server=132.243.224.144&port=443&secret=eeecda39a76e1bc3262c8c8b01f7ba4fee706574726f766963682e7275&@MPT_Proxy
+https://t.me/proxy?server=157.180.69.178&port=8080&secret=asef%F0%9F%A4%8D%F0%9F%8D%93
+https://t.me/proxy?server=213.233.184.133&port=3600&secret=7nvA4XWkuP/vcqLK7G4iw9V3d3cuY2xvdWRmbGFyZS5jb20
+https://t.me/proxy?server=213.233.184.133&port=3600&secret=7nvA4XWkuP_vcqLK7G4iw9V3d3cuY2xvdWRmbGFyZS5jb20
+https://t.me/proxy?server=213.233.184.133&port=3600&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=31.47.51.91&port=443&secret=ddecb813fb23747286cf9ac2ba887f627f
+https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=atg.proxytg.space&port=443&secret=eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365&@MPT_Proxy
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=167.235.249.231&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=213.233.184.133&port=3600&secret=7nvA4XWkuP_vcqLK7G4iw9V3d3cuY2xvdWRmbGFyZS5jb20
+tg://proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.42.27.171&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=connect.nolags.pw&port=443&secret=ddc64c1442e6d67631dd7d40ed1e24aef2](tg://proxy?server=connect.nolags.pw
+
+
+کانفیگ های جمع آوری شده تمام تلگرام
+توسط کانال کیامو | @kiamoo
+تاریخ: 1405/02/27
 ساعت: 06:31
 ──────────────────────────────────────────────────────────────────────
 https://t.me/proxy?server=157.180.69.178&port=8080&secret=asef%F0%9F%A4%8D%F0%9F%8D%93
