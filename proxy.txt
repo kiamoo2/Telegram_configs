@@ -1,6 +1,50 @@
 کانفیگ های جمع آوری شده تمام تلگرام
 توسط کانال کیامو | @kiamoo
 تاریخ: 1405/02/28
+ساعت: 17:03
+──────────────────────────────────────────────────────────────────────
+https://t.me/proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d
+https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09&@MPT_Proxy
+https://t.me/proxy?server=89.167.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
+https://t.me/proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+https://t.me/socks?server=185.165.119.193&port=1080&user=%40irconfiig&pass=%40irconfiig
+https://t.me/socks?server=185.165.119.193&port=1080&user=saministamm
+https://t.me/socks?server=37.32.7.64&port=47763&user=%40saministamm&pass=%40saministamm
+https://t.me/socks?server=37.32.7.64&port=47763&user=%40saministamm&pass=%40saministamm**
+https://t.me/socks?server=mseu8.fastspeed.cfd&port=7854&user=user14&pass=eE1tTbB3qQ
+tg://proxy?server=135.181.31.175&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=62.238.27.70&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09&user=%40ixbtmn
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09&user=%40ixbtmn**
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09&user=%40vpn1pack
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09****
+tg://proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.109.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.109.120&port=443&secret=dd104462821249bd7ac519130220c25d09**
+tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
+tg://proxy?server=max.telehelp.top&port=443&secret=ee27252638159317e07b706d5114d73e0b64726976652e676f6f676c652e636f6d
+tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+
+
+کانفیگ های جمع آوری شده تمام تلگرام
+توسط کانال کیامو | @kiamoo
+تاریخ: 1405/02/28
 ساعت: 13:35
 ──────────────────────────────────────────────────────────────────────
 https://t.me/proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d
